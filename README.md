@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tolulope028
 - 👀 I’m interested in product management, scrum mastery and business analysis
-- 🌱 I’m currently learning data analytics and product management
+- 🌱 I’m currently learning data analysis
 - 💞️ I’m looking to collaborate on software products that require high level organization and on-time launch
 - 📫 How to reach me @ibukunlope@gmail.com
 <!---
